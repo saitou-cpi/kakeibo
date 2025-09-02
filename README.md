@@ -71,9 +71,9 @@ curl -X POST http://127.0.0.1:8000/report -H "Content-Type: application/json" -d
 
 ```
 計算対象,日付,内容,金額（円）,保有金融機関,大項目,中項目,メモ,振替,ID
-1,2025/8/30,by Amazon 炭酸水 ラベルレス 1000ml ×15本 富士山の強炭酸水 バナジウム含有 ペットボトル 静岡県産 1L ボトル 割り材 販売: Amazon.co.jp,-1329,Amazon.co.jp,食費,食料品,,0,e5wQUWihkmIrcWbtwFsrVHO-l4_8YOhRfpLjkpNYRBU
-1,2025/8/29,MYB大田北馬,-362,イオンカード,食費,食費,,0,Tu_pebI_aEfZdL2Jw8qYa6nSbsg956CJ_7lVSMbbcNo
-0,2025/8/29,AMAZON.,-436,イオンカード,食費,食料品,,1,S7Mu8ZHmwvRODkb7qgx_vpixyigFzoyAUtwx6HCAgOs
+1,2025/8/30,by Amazon 炭酸水 ラベルレス 1000ml ×15本 富士山の強炭酸水 バナジウム含有 ペットボトル 静岡県産 1L ボトル 割り材 販売: Amazon.co.jp,-1329,Amazon.co.jp,食費,食料品,,0,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+1,2025/8/29,MYB,-362,イオンカード,食費,食費,,0,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+0,2025/8/29,AMAZON.,-436,イオンカード,食費,食料品,,1,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ## 備考
